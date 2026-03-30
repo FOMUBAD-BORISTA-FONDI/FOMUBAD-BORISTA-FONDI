@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FOMUBAD BORISTA FONDI</h1>
 <h3 align="center">A results-driven Software engineer from Cameroon who builts software systems using AI technologies and tools, with data to solve real-world problems.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fomubad-borista-fondi" alt="fomubad-borista-fondi" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fomubad-borista-fondi" alt="fomubad-borista-fondi" /></a> </p> -->
 
 - 🔭 I’m currently working on [Durable Impact's Website](https://durableimpact.org/)
 
