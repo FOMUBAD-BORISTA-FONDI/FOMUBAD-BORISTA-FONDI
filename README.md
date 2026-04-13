@@ -3,13 +3,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fomubad-borista-fondi" alt="fomubad-borista-fondi" /></a> </p> -->
 
-- 🔭 I’m currently working on [Durable Impact's Website](https://durableimpact.org/)
+- I’m currently working on [Durable Impact's Website](https://durableimpact.org/)
 
-- 🌱 I’m currently learning **Odoo**
+- I’m currently learning **Odoo**
 
-- 💬 Ask me about **Software Development and Engineering**
+- Ask me about **Software Engineering and Development**
 
-- 📫 How to reach me **borista.fomubad@facsciences-uy1.cm**
+- How to reach me **borista.fomubad@facsciences-uy1.cm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
