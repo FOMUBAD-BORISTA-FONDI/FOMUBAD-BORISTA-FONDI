@@ -12,15 +12,31 @@
 - How to reach me **borista.fomubad@facsciences-uy1.cm**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fomubad_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fomubad_b" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fomubad-borista-fondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fomubad-borista-fondi" height="30" width="40" /></a>
-<a href="https://kaggle.com/fomubadborista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fomubadborista" height="30" width="40" /></a>
-<a href="https://fb.com/fomubad borista fondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fomubad borista fondi" height="30" width="40" /></a>
-<a href="https://instagram.com/@boristafomubad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@boristafomubad" height="30" width="40" /></a>
-<a href="https://dribbble.com/borista-computing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="borista-computing" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@fomubadborista3792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@fomubadborista3792" height="30" width="40" /></a>
-<a href="https://discord.gg/fomubadborista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fomubadborista" height="30" width="40" /></a>
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+<a href="https://twitter.com/fomubad_b" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/fomubad-borista-fondi" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://kaggle.com/fomubadborista" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+</a>
+<a href="https://facebook.com/fomubadborista" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/boristafomubad" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://dribbble.com/borista-computing" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/@fomubadborista3792" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+</a>
+<a href="https://discord.gg/fomubadborista" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
