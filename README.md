@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fomubad-borista-fondi" alt="fomubad-borista-fondi" /></a> </p> -->
 
-- I’m currently working on [Durable Impact's Academy Website](https://durableimpactacademy.com/)
+- I’m currently working on [Durable Impact Academy's Website](https://durableimpactacademy.com/)
 
 - I’m currently learning **Odoo**
 
