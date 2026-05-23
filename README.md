@@ -31,12 +31,12 @@
 <a href="https://dribbble.com/borista-computing" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/@fomubadborista3792" target="blank">
+<!-- <a href="https://www.youtube.com/@fomubadborista3792" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-</a>
-<a href="https://discord.gg/fomubadborista" target="blank">
+</a> -->
+<!-- <a href="https://discord.gg/fomubadborista" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
-</a>
+</a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
