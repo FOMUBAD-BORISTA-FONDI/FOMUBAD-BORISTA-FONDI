@@ -5,7 +5,7 @@
 
 - I’m currently building the [Joyfund Website](https://joy-fund.com/)
 
-- I’m currently learning **Odoo**
+- I’m currently **Chief Technology Officer** of Durable Impact
 
 - Ask me about **Software Engineering and Development**
 
