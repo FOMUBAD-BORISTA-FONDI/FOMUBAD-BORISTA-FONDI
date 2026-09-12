@@ -2,6 +2,11 @@
 <h3 align="center">A results-driven Software engineer from Cameroon who builts software systems using AI technologies and tools, with data to solve real-world problems.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fomubad-borista-fondi" alt="fomubad-borista-fondi" /></a> </p> -->
+<p align="center" style="display:flex;align-items:center;gap:10px">
+  
+<a href="https://wakatime.com/@7a03d500-b310-4adb-9229-1bb6044d565d"><img src="https://wakatime.com/badge/user/7a03d500-b310-4adb-9229-1bb6044d565d.svg" alt="Total time coded since Dec 28 2022" /></a>
+<img src="https://komarev.com/ghpvc/?username=fomubad-borista-fondi&label=Profile%20views&color=0e75b6&style=flat" alt="Borista" /> 
+</p>
 
 - I’ve built over 15+ websites, Including [Joyfund Website](https://joy-fund.com/), [Durable Impact Website](https://durableimpact.org/), [Ohkeroh](https://ohkeroh.com/), [AgroHelp](https://agrohelp.render.com/), etc
 
