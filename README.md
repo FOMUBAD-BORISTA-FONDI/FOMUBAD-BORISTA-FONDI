@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fomubad-borista-fondi" alt="fomubad-borista-fondi" /></a> </p> -->
 
-- I’ve built over 15+ websites, Including [Joyfund Website](https://joy-fund.com/), [Durable Impact Website](https://joy-fund.com/), [Ohkeroh](https://ohkeroh.com/),[AgroHelp](https://agrohelp.render.com/), etc
+- I’ve built over 15+ websites, Including [Joyfund Website](https://joy-fund.com/), [Durable Impact Website](https://joy-fund.com/), [Ohkeroh](https://ohkeroh.com/), [AgroHelp](https://agrohelp.render.com/), etc
 
 - I’m currently the **Chief Technology Officer** of Durable Impact
 
