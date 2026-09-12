@@ -10,7 +10,7 @@
 
 - I’ve built over 15+ websites, Including [Joyfund Website](https://joy-fund.com/), [Durable Impact Website](https://durableimpact.org/), [Ohkeroh](https://ohkeroh.com/), [AgroHelp](https://agrohelp.render.com/), etc
 
-- I’m currently the **Chief Technology Officer** of Durable Impact.
+- I’m currently the **Chief Technology Officer** of Durable Impact
 
 - Ask me about **Software Engineering and Development**
 
