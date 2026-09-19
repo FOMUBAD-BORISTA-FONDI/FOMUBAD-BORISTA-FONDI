@@ -1,7 +1,7 @@
 <h1 align="center">Hi,👋 I'm FOMUBAD BORISTA FONDI</h1>
 <h3 align="center">A results-driven Software engineer from Cameroon who builds software systems using AI technologies and tools, with data to solve real-world problems.</h3>
 
-<!-- -- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fomubad-borista-fondi" alt="fomubad-borista-fondi" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fomubad-borista-fondi" alt="fomubad-borista-fondi" /></a> </p> -->
 <p align="center" style="display:flex;align-items:center;gap:10px">
   
 <a href="https://wakatime.com/"><img src="https://wakatime.com/badge/user/7a03d500-b310-4adb-9229-1bb6044d565d.svg" alt="Total time coded since Jan 02 2023" /></a>
